@@ -21,3 +21,8 @@ body {
 img {
   height: 7em;
 }
+
+#home-img {
+  width:300px;
+  height:auto;
+}
